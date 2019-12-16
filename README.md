@@ -1,5 +1,4 @@
-Activiti
-========
+
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.activiti/activiti-engine/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.activiti/activiti-engine)
 
@@ -173,3 +172,4 @@ FAQ
         * with [Open Hub](https://www.openhub.net/p/activiti/contributors) which also has statistics
 
         * in [the GitHub web interface](https://github.com/activiti).
+
